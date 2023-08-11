@@ -1,7 +1,7 @@
 <h1 align="center">
-  ¡Hola, me llamo Alexander! 👋
+  ¡Hi, I'm Alexander! 👋
   <br>
-  <img src="" alt="Logo">
+<!--   <img src="" alt="Logo"> -->
 </h1>
 
 <!-- Imagen de perfil -->
@@ -13,18 +13,15 @@
 
 Soy un apasionado de la programación y la tecnología. Me encanta tratar de solucionar problemticas de todo ambito. Mi objetivo es aportar valor mediante soluciones tecnologicas. En mi tiempo libre, disfruto jugar video juegos o aprender nuevas tecnologias 
 
-## Presentación
-
-Puedes encontrar mi presentación personalizada en mi sitio web:
-[![Presentación](URL_de_la_miniatura_de_tu_presentacion.png)](URL_de_tu_presentacion)
-
 ## Habilidades y Tecnologías
 
-- Lenguajes de Programación: Java, C#, Python, JavaScript,
-- Frameworks y Bibliotecas: Spring Boot,.NET, React, Angular, Java FX, 
-- Bases de Datos: MySQL, Sql Server
+- Lenguajes de Programación: Java, C#, Python, JavaScript, C++ 
+- Frameworks y Bibliotecas: Spring Framework,.NET, React, Angular, Java FX
+- Bases de Datos: MySQL, SQL Server, Postgres
+- Cloud: Azure
+- Excel Avanzado
 - Herramientas de Control de Versiones: Git, GitHub
-- 
+
 
 ## ¡Conéctate conmigo!
 
