@@ -6,7 +6,6 @@
 
 <!-- Imagen de perfil -->
 <p align="center">
-  <img src="https://terralogic.com/wp-content/uploads/2021/06/springworl.png" alt="Foto de Perfil" width="400">
 </p>
 
 ## About me
