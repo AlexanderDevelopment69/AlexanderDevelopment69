@@ -19,6 +19,8 @@ Soy un apasionado de la programación y la tecnología. Me encanta tratar de sol
 - Frameworks y Bibliotecas: Spring Framework,.NET, React, Angular, Java FX
 - Bases de Datos: MySQL, SQL Server, Postgres
 - Cloud: Azure
+- Servidores: Linux
+- Docker
 - Excel Avanzado
 - Herramientas de Control de Versiones: Git, GitHub
 
@@ -32,8 +34,12 @@ Soy un apasionado de la programación y la tecnología. Me encanta tratar de sol
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;&nbsp;
-<img src="Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
+
+
 ## ¡Conéctate conmigo!
 
 <a href="https://linkedin.com/in/alexanderbondeveloper" >
