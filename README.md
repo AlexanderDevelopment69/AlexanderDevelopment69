@@ -25,6 +25,6 @@ Soy un apasionado de la programación y la tecnología. Me encanta tratar de sol
 
 ## ¡Conéctate conmigo!
 
-<p align="center"  href="https://linkedin.com/in/alexanderbondeveloper" >
+<a href="https://linkedin.com/in/alexanderbondeveloper" >
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</p>
+</a>
