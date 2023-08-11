@@ -9,11 +9,11 @@
   <img src="https://terralogic.com/wp-content/uploads/2021/06/springworl.png" alt="Foto de Perfil" width="500">
 </p>
 
-## Sobre Mí
+## About me
 
 Soy un apasionado de la programación y la tecnología. Me encanta tratar de solucionar problemticas de todo ambito. Mi objetivo es aportar valor mediante soluciones tecnologicas. En mi tiempo libre, disfruto jugar video juegos o aprender nuevas tecnologias 
 
-## Habilidades y Tecnologías
+## Skills and Technologies
 
 - Lenguajes de Programación: Java, C#, Python, Php, C++ 
 - Frameworks y Bibliotecas: Spring Framework,.NET, React, Angular, Java FX
