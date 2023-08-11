@@ -41,8 +41,7 @@ Soy un apasionado de la programación y la tecnología. Me encanta tratar de sol
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
 
 
-
-## ¡Conéctate conmigo!
+## ¡Connect with me!
 
 <a href="https://linkedin.com/in/alexanderbondeveloper" >
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
