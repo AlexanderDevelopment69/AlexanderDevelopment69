@@ -11,7 +11,7 @@
 
 ## About me
 
-Soy un apasionado de la programación y la tecnología. Me encanta tratar de solucionar problemticas de todo ambito. Mi objetivo es aportar valor mediante soluciones tecnologicas. En mi tiempo libre, disfruto jugar video juegos o aprender nuevas tecnologias 
+Soy un apasionado de la programación y la tecnología. Me encanta tratar de solucionar problematicas de todo ambito. Mi objetivo es aportar valor mediante soluciones tecnologicas. En mi tiempo libre, disfruto jugar video juegos o aprender nuevas tecnologias 
 
 ## Skills and Technologies
 
