@@ -17,7 +17,7 @@ Soy un apasionado de la programación y la tecnología. Me encanta tratar de sol
 
 - Lenguajes de Programación: Java, C#, Python, Php, C++ 
 - Frameworks y Bibliotecas: Spring Framework,.NET, React, Angular, Java FX
-- Bases de Datos: MySQL, SQL Server, Postgres
+- Bases de Datos: MySQL, SQL Server, Postgres, Oracle
 - Cloud: Azure
 - Servidores: Linux
 - Docker
