@@ -11,7 +11,7 @@
 
 ## About me
 
-Soy un apasionado de la programación y la tecnología. Me encanta tratar de solucionar problematicas de todo ambito. Mi objetivo es aportar valor mediante soluciones tecnologicas. En mi tiempo libre, disfruto jugar video juegos o aprender nuevas tecnologias 
+ngeniero de Sistemas con una sólida pasión por la tecnología y la innovación. Me especializo en identificar y resolver problemáticas desde una perspectiva analítica y orientada a resultados, aportando soluciones tecnológicas que generen valor real a las organizaciones. Me caracteriza una mentalidad proactiva, curiosa y en constante aprendizaje. En mi tiempo libre, disfruto explorar nuevas tendencias tecnológicas y desarrollar habilidades a través de videojuegos y proyectos personales.
 
 ## Skills and Technologies
 
