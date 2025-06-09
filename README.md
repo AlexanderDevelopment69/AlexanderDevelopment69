@@ -11,18 +11,18 @@
 
 ## About me
 
-ngeniero de Sistemas con una sólida pasión por la tecnología y la innovación. Me especializo en identificar y resolver problemáticas desde una perspectiva analítica y orientada a resultados, aportando soluciones tecnológicas que generen valor real a las organizaciones. Me caracteriza una mentalidad proactiva, curiosa y en constante aprendizaje. En mi tiempo libre, disfruto explorar nuevas tendencias tecnológicas y desarrollar habilidades a través de videojuegos y proyectos personales.
+Ingeniero de Sistemas con experiencia como desarrollador Full Stack, especializado en soluciones basadas en Java. He trabajado en el diseño, desarrollo e implementación de aplicaciones web completas, tanto del lado del backend como del frontend, aportando soluciones tecnológicas que optimizan procesos y generan valor para las organizaciones. Manejo tecnologías como Java (Spring Boot), bases de datos relacionales y no relacionales, así como frameworks modernos para el desarrollo frontend. Me caracterizo por mi enfoque analítico, orientación a resultados y compromiso con la mejora continua. En mi tiempo libre, disfruto aprender nuevas tecnologías, desarrollar proyectos personales y potenciar mis habilidades a través de videojuegos.
 
 ## Skills and Technologies
 
-- Lenguajes de Programación: Java, C#, Python, Php, C++ 
-- Frameworks y Bibliotecas: Spring Framework,.NET, React, Angular, Java FX
-- Bases de Datos: MySQL, SQL Server, Postgres, Oracle
-- Cloud: Azure
-- Servidores: Linux
-- Docker
-- Excel Avanzado
-- Herramientas de Control de Versiones: Git, GitHub
+- Programming Languages: Java, C#, Python, PHP, C++
+- Frameworks & Libraries: Spring Framework, .NET, React, Angular, Vue.js, Laravel, JavaFX
+- Databases: MySQL, SQL Server, PostgreSQL, Oracle, MongoDB
+- Cloud Platforms: Microsoft Azure, Google Cloud Platform (GCP), Amazon Web Services (AWS)
+- Operating Systems & Servers: Linux
+- Containerization & Orchestration: Docker, Kubernetes
+- Data Analysis & Visualization: Power BI, Microsoft Excel
+- Version Control: Git, GitHub
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>&nbsp;&nbsp;
