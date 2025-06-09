@@ -8,7 +8,7 @@
 
 ### 📌 About Me
 
-Soy **Ingeniero de Sistemas** y desarrollador **Full Stack**, especializado en soluciones con **Java** y tecnologías modernas del ecosistema web. Cuento con experiencia en el desarrollo de aplicaciones completas (frontend y backend), implementación de bases de datos y despliegue en la nube. Me apasiona el aprendizaje continuo, los proyectos personales y los videojuegos como herramienta de mejora cognitiva y creatividad.
+Ingeniero de Sistemas con experiencia como desarrollador Full Stack, especializado en soluciones basadas en Java. He trabajado en el diseño, desarrollo e implementación de aplicaciones web completas, tanto del lado del backend como del frontend, aportando soluciones tecnológicas que optimizan procesos y generan valor para las organizaciones. Manejo tecnologías como Java (Spring Boot), bases de datos relacionales y no relacionales, así como frameworks modernos para el desarrollo frontend. Me caracterizo por mi enfoque analítico, orientación a resultados y compromiso con la mejora continua. En mi tiempo libre, disfruto aprender nuevas tecnologías, desarrollar proyectos personales y potenciar mis habilidades a través de videojuegos
 
 ---
 
