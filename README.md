@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Alexander</h1>
 
 <p align="center">
-  <img src="https://terralogic.com/wp-content/uploads/2021/06/springworl.png" alt="Foto de Perfil" width="300" />
+<!--   <img src="https://terralogic.com/wp-content/uploads/2021/06/springworl.png" alt="Foto de Perfil" width="300" /> -->
 </p>
 
 ---
